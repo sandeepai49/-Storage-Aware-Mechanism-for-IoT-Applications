@@ -34,6 +34,5 @@ In IoT systems with limited local storage, it's essential to manage data efficie
 - Communication Protocols: MQTT, HTTP, or LoRa (as applicable)
 - Storage: Local disk, Edge server, Cloud (AWS, Azure, GCP)
 
-## Project Structure
 
 
